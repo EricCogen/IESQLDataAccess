@@ -1,0 +1,4 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\IESQLDataAccess\IESQLDataAccess\bin\Debug\IESQLDataAccess.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\IESQLDataAccess\IESQLDataAccess\bin\Debug\IESQLDataAccess.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\IESQLDataAccess\IESQLDataAccess\obj\Debug\IESQLDataAccess.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\IESQLDataAccess\IESQLDataAccess\obj\Debug\IESQLDataAccess.pdb
